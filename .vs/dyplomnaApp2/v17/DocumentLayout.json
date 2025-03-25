@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.server\\data\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|solutionrelative:dyplomnaapp2.server\\data\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\findjob\\findjob.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\findjob\\findjob.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.server\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|solutionrelative:dyplomnaapp2.server\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\findexpert\\findexpert.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\findexpert\\findexpert.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\advertisement\\advertisement.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\advertisement\\advertisement.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.server\\controllers\\categoryprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|solutionrelative:dyplomnaapp2.server\\controllers\\categoryprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\findexpert\\expertitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\findexpert\\expertitem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\advertisement\\profilead.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\advertisement\\profilead.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\profile\\profilehead.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\profile\\profilehead.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.server\\controllers\\reviewasemployercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|solutionrelative:dyplomnaapp2.server\\controllers\\reviewasemployercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\createreview\\createreviewpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\createreview\\createreviewpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\createpost\\createpost.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\createpost\\createpost.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\profile\\profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\profile\\profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\routing\\routes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\routing\\routes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\postcard\\postcardmanyphotos.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\postcard\\postcardmanyphotos.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.server\\controllers\\imagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|solutionrelative:dyplomnaapp2.server\\controllers\\imagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\addphotos\\addphotos.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\addphotos\\addphotos.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\offerjob\\offerjobpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\offerjob\\offerjobpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|solutionrelative:dyplomnaapp2.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.server\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|solutionrelative:dyplomnaapp2.server\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\profileedit\\profileheadedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\profileedit\\profileheadedit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.server\\data\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A77D747-FFC8-45B3-95AA-8BC57E7FB5C4}|dyplomnaApp2.Server\\dyplomnaApp2.Server.csproj|solutionrelative:dyplomnaapp2.server\\data\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\login\\loginpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\login\\loginpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|c:\\users\\1\\documents\\naukma\\dyplom\\dyplomnaapp2\\dyplomnaapp2.client\\src\\components\\navmenu\\navmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D527234-BE88-4BEC-BE98-5AF146189D3B}|dyplomnaapp2.client\\dyplomnaapp2.client.esproj|solutionrelative:dyplomnaapp2.client\\src\\components\\navmenu\\navmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateReviewPage.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\CreateReview\\CreateReviewPage.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\CreateReview\\CreateReviewPage.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\CreateReview\\CreateReviewPage.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\CreateReview\\CreateReviewPage.jsx",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAuwJoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T18:09:55.204Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Data\\RequestModel.cs",
+              "RelativeDocumentMoniker": "dyplomnaApp2.Server\\Data\\RequestModel.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Data\\RequestModel.cs",
+              "RelativeToolTip": "dyplomnaApp2.Server\\Data\\RequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:55:36.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindJob.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\FindJob\\FindJob.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\FindJob\\FindJob.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\FindJob\\FindJob.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\FindJob\\FindJob.jsx",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwGAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T19:46:19.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Controllers\\CategoryProfileController.cs",
+              "RelativeDocumentMoniker": "dyplomnaApp2.Server\\Controllers\\CategoryProfileController.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Controllers\\CategoryProfileController.cs",
+              "RelativeToolTip": "dyplomnaApp2.Server\\Controllers\\CategoryProfileController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:36:55.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindExpert.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\FindExpert\\FindExpert.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\FindExpert\\FindExpert.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\FindExpert\\FindExpert.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\FindExpert\\FindExpert.jsx",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwGAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T19:28:39.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpertItem.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\FindExpert\\ExpertItem.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\FindExpert\\ExpertItem.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\FindExpert\\ExpertItem.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\FindExpert\\ExpertItem.jsx",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwEAAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T18:57:51.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileAd.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Advertisement\\ProfileAd.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\Advertisement\\ProfileAd.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Advertisement\\ProfileAd.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\Advertisement\\ProfileAd.jsx",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T18:57:02.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profile.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Profile\\Profile.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\Profile\\Profile.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Profile\\Profile.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\Profile\\Profile.jsx",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T18:19:32.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Routes.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Routing\\Routes.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\Routing\\Routes.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Routing\\Routes.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\Routing\\Routes.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T18:15:21.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\App.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\App.jsx",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwEEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T18:14:44.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePost.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\CreatePost\\CreatePost.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\CreatePost\\CreatePost.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\CreatePost\\CreatePost.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\CreatePost\\CreatePost.jsx",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAQwLoAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T18:12:03.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewAsEmployerController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Controllers\\ReviewAsEmployerController.cs",
+              "RelativeDocumentMoniker": "dyplomnaApp2.Server\\Controllers\\ReviewAsEmployerController.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Controllers\\ReviewAsEmployerController.cs",
+              "RelativeToolTip": "dyplomnaApp2.Server\\Controllers\\ReviewAsEmployerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:02:43.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Advertisement.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Advertisement\\Advertisement.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\Advertisement\\Advertisement.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Advertisement\\Advertisement.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\Advertisement\\Advertisement.jsx",
+              "ViewState": "AQIAAEkBAAAAAAAAAAAgwIcBAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T17:56:43.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostCardManyPhotos.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\PostCard\\PostCardManyPhotos.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\PostCard\\PostCardManyPhotos.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\PostCard\\PostCardManyPhotos.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\PostCard\\PostCardManyPhotos.jsx",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T17:30:10.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddPhotos.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\AddPhotos\\AddPhotos.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\AddPhotos\\AddPhotos.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\AddPhotos\\AddPhotos.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\AddPhotos\\AddPhotos.jsx",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T16:10:48.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImagesService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Controllers\\ImagesService.cs",
+              "RelativeDocumentMoniker": "dyplomnaApp2.Server\\Controllers\\ImagesService.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Controllers\\ImagesService.cs",
+              "RelativeToolTip": "dyplomnaApp2.Server\\Controllers\\ImagesService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:37:17.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Controllers\\AdController.cs",
+              "RelativeDocumentMoniker": "dyplomnaApp2.Server\\Controllers\\AdController.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Controllers\\AdController.cs",
+              "RelativeToolTip": "dyplomnaApp2.Server\\Controllers\\AdController.cs",
+              "ViewState": "AQIAAFIBAAAAAAAAAAAAAFIBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:28:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OfferJobPage.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\OfferJob\\OfferJobPage.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\OfferJob\\OfferJobPage.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\OfferJob\\OfferJobPage.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\OfferJob\\OfferJobPage.jsx",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T15:27:52.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "dyplomnaApp2.Server\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "dyplomnaApp2.Server\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:54:30.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "dyplomnaApp2.Server\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "dyplomnaApp2.Server\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAuwBYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:52:33.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProfileHeadEdit.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\ProfileEdit\\ProfileHeadEdit.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\ProfileEdit\\ProfileHeadEdit.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\ProfileEdit\\ProfileHeadEdit.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\ProfileEdit\\ProfileHeadEdit.jsx",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T12:50:47.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileHead.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Profile\\ProfileHead.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\Profile\\ProfileHead.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Profile\\ProfileHead.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\Profile\\ProfileHead.jsx",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T12:37:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProfileModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Data\\ProfileModel.cs",
+              "RelativeDocumentMoniker": "dyplomnaApp2.Server\\Data\\ProfileModel.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaApp2.Server\\Data\\ProfileModel.cs",
+              "RelativeToolTip": "dyplomnaApp2.Server\\Data\\ProfileModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:13:00.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginPage.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Login\\LoginPage.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\Login\\LoginPage.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\Login\\LoginPage.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\Login\\LoginPage.jsx",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwCIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T11:54:44.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NavMenu.jsx",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\NavMenu\\NavMenu.jsx",
+              "RelativeDocumentMoniker": "dyplomnaapp2.client\\src\\components\\NavMenu\\NavMenu.jsx",
+              "ToolTip": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\src\\components\\NavMenu\\NavMenu.jsx",
+              "RelativeToolTip": "dyplomnaapp2.client\\src\\components\\NavMenu\\NavMenu.jsx",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-23T11:53:32.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

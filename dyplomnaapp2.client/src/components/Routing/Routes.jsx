@@ -1,0 +1,13 @@
+export const login_route = "/";
+export const signup_route = "/signup";
+export const profile_route = "/profile";
+export const notification_route = "/notifications";
+//export const advertisement_route = "/xzxz";
+export const advertisement_route = "/advertisement";
+export const job_route = "/job";
+export const expert_route = "/expert";
+export const create_ad_route = "/create-ad";
+export const create_post_route = "/create-post";
+export const profile_edit_route = "/profile/edit";
+export const offer_job_route = "/offer";
+export const create_review = "/create-review";

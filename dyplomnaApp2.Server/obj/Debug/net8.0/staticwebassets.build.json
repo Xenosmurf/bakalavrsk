@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "W4lzqSvEQ0pz0pxaAZUf4ZGjOsh9rHYtItFB2vpM7o0=",
+  "Source": "dyplomnaApp2.Server",
+  "BasePath": "_content/dyplomnaApp2.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\1\\Documents\\NAUKMA\\dyplom\\dyplomnaApp2\\dyplomnaapp2.client\\dyplomnaapp2.client.esproj",
+      "Version": 2,
+      "Source": "dyplomnaapp2.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

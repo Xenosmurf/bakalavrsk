@@ -1,0 +1,6 @@
+@dyplomnaApp2.Server_HostAddress = http://localhost:5071
+
+GET {{dyplomnaApp2.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

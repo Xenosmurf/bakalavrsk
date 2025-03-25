@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dyplomnaApp2.Server.props" />
+</Project>

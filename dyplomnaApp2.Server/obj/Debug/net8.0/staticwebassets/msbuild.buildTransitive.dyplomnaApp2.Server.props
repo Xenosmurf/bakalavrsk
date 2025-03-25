@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\dyplomnaApp2.Server.props" />
+</Project>
