@@ -12,7 +12,7 @@ namespace dyplomnaApp2.Server.Controllers
     {
         BlobServiceClient _blobServiceClient;
         BlobContainerClient _containerServiceClient;
-        string connectionStringStorage = "DefaultEndpointsProtocol=https;AccountName=dyplomnastorage;AccountKey=YXRoX6gt8559PfYIR7n4bhhr4reNqrJu4bq4jm4xv6bZl8fFmUsHWs/UjRhzy8jyWzDesBIZ+Kkg+AStnAplFA==;EndpointSuffix=core.windows.net";
+        string connectionStringStorage = "SOME PATH";
         public ImagesService()
         {
             _blobServiceClient = new BlobServiceClient(connectionStringStorage);
